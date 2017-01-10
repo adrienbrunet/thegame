@@ -1,10 +1,14 @@
-# thegame
+thegame
+=======
+
 You lost.
 
-## Install
+Install
+-------
 
 `pip install thegame`
 
-## Usage
+Usage
+-----
 
 `import thegame`

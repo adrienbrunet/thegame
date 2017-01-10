@@ -4,7 +4,7 @@
 You LOST.
 """
 
-__version__ = '1.6'
+__version__ = '1.7'
 
 __author__ = "Adrien Brunet"
 __contact__ = "plz-dont@thks.bye"
